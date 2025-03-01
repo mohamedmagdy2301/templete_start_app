@@ -2,7 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ramadan_app/core/constants/app_text_style.dart';
+
+import '/core/constants/app_text_style.dart';
 
 // Widget for Animated SnackBar
 class AnimatedSnackBar extends StatefulWidget {

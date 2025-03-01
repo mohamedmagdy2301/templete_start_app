@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:ramadan_app/main.dart';
-import 'package:ramadan_app/splash_screen.dart';
 
+import '/main.dart';
+import '/splash_screen.dart';
 import 'routes.dart';
 
 abstract class AppRouter {

@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:ramadan_app/core/extensions/int_extensions.dart';
-import 'package:ramadan_app/core/router/router_helper.dart';
-import 'package:ramadan_app/core/router/routes.dart';
-import 'package:ramadan_app/core/utils/widgets/custom_loading_widget.dart';
+
+import '/core/extensions/int_extensions.dart';
+import 'core/router/router_helper.dart';
+import 'core/router/routes.dart';
+import 'core/utils/widgets/custom_loading_widget.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
